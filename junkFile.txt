@@ -1,0 +1,7 @@
+https://localhost:3000/home/donor/register
+
+{
+  "username" : "Ayush",
+  "email": "ajit",
+  "password":"ajit123"
+}
